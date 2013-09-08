@@ -1,4 +1,4 @@
-## 2.3.1 (February 28, 2013)
+## 2.3.1 (February 28, 2013)   
 
 Patch release for @fat's n00bery
 
